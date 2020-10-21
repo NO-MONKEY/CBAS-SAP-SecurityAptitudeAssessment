@@ -13,8 +13,26 @@ In return, this allows organizations to
 
 ## Getting Started
 
-The below video illustrates how you can get started with the Security Aptitude Assessment and Analysis; which serves as the first part of the CBAS project.
+The below video illustrates how you can get started with the Security Aptitude Assessment and Analysis.
 
 [![Watch the video](img/Example_4.gif)](https://www.youtube.com/watch?v=ZglYrmugTX0)
 
 The [HOW-TO](HOW_TO.md) file also gives an overview on how to start with your Security Aptitude Assessment and Analysis.
+
+## Contribution
+
+See [CONTRIBUTING](CONTRIBUTING.md) section for more information.    
+
+## Leaders
+- [Waseem Ajrab](mailto:waseem.ajrab@no-monkey.com)
+- [Marco Hammel](mailto:marco.hammel@no-monkey.com)
+
+## Communication channel
+
+Anyone interested in supporting, contributing or giving feedback join us in our discord channel.
+
+* [Discord Channel](https://discord.gg/X8ZVSfH)
+
+## License
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
+<br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
