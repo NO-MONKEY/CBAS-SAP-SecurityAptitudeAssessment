@@ -1,8 +1,9 @@
+---
+Version: V1.0
+Date: 01/06/2020
+Author: Waseem Ajrab
+---
 # Objectives
-
-|Version|Date|Author|
-|:--|:--|:--|
-|V1.0|01/06/2020|Waseem Ajrab|
 
 The success criteria of each objective is identified by the completion of the goals associated to a specific objective.
 
@@ -23,6 +24,3 @@ To help and assist organizations with enabling and adopting a personalized SAP s
 
 ### Goals:
 1. Automating the assessment methodology
-
-## Objective 3:
-To bring awareness to security professionals of the threats and risks that SAP solutions can present within an organization
