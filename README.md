@@ -1,5 +1,7 @@
 # Security Aptitude Assessment and Analysis
 
+<img src="img/Silverback.png" width="150"/><br>
+
 The CBAS - SAP Security Aptitude Assessment (CBAS-SSAA) project allows organizations to determine the skill and knowledge gaps required to secure SAP implementations in an organization.
 
 The Security Aptitude Assessment is designed to find these gaps and map them to the [NO MONKEY Security Matrix](NMSM.md).
@@ -21,7 +23,7 @@ The [HOW-TO](HOW_TO.md) file also gives an overview on how to start with your Se
 
 ## Contribution
 
-See [CONTRIBUTING](CONTRIBUTING.md) section for more information.    
+See [CONTRIBUTING](https://github.com/NO-MONKEY/CBAS-SAP/blob/master/CONTRIBUTING.md) section for more information.    
 
 ## Leaders
 - [Waseem Ajrab](mailto:waseem.ajrab@no-monkey.com)
