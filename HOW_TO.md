@@ -2,7 +2,7 @@
 
 **"The more the survey takers are, the better the results and analysis become to understand the gap areas within your organization"**
 
-To get started, download a copy of the below documents from the [Analysis folder](https://github.com/NO-MONKEY/CBAS/tree/master/Analysis):
+To get started, download a copy of the below documents from the [Analysis folder](https://github.com/NO-MONKEY/CBAS-SAP-SecurityAptitudeAssessment/tree/master/Analysis):
 
 Required documents:
 - [Security_Aptitude_Analysis.xlsx](Analysis)
